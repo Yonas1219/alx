@@ -9,7 +9,33 @@
       <about-section></about-section>
       <skills-section></skills-section>
       <portfolio-section></portfolio-section>
+      <div style="display: flex justify-content: center;">
+        <a
+          href="https://www.canva.com/design/DAF3PgKxNW8/SZ5aEg0wB87L9o8JQrn3IA/edit?utm_conten
+t=DAF3PgKxNW8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutto
+n"
+          target="_blank"
+          ><button
+            style="
+              font-size: 32px;
+              margin-right: 20px;
+              background-color: lightgray;
+              color: black;
+            "
+          >
+            Slide Deck
+          </button></a
+        >
 
+        <a
+          href="https://www.canva.com/design/DAF3P1jEdHc/6jRXYvlfhw8X1-uYqVdBQg/edit?utm_con
+tent=DAF3P1jEdHc&utm_campaign=designshare&utm_medium=link2&utm_source=sh
+arebutton"   target="_blank"
+          ><button style="font-size: 32px; background-color: lightgray;
+              color: black;">Team Video</button></a
+        >
+      </div>
+      <div style="margin-bottom: 30px"></div>
       <contact-section></contact-section>
       <!-- <footer-section></footer-section> -->
     </template>
